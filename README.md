@@ -1,8 +1,6 @@
 # Angular - The Complete Guide (2020) final project
 
-#Host Site
-
-This project is currently avaiable at the following URL: https://udemy-8da80.web.app/
+This project is currently avaiable at the following URL: https://udemy-8da80.web.app/ through Firebase.
 
 This project demonstrates the basic concepts of Angular such as Components, Databinding, Services and Dependency Injections, Routing, HTTP Requests, and Authentication
 
